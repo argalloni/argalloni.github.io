@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Alessandro Galloni"
   pronouns         : # example: "she/her"  
-  bio              : "Computational neuroscientist with experience in machine learning, bio-data analysis, neuromorphic computing, and neurophysiology"
-  location         : "Rutgers University, New Brunswick NJ"
+  bio              : "Computational neuroscientist"
+  location         : "New Brunswick NJ"
   employer         : "Rutgers University"
   uri              : # URL
   email            : "alessandro.galloni.11@ucl.ac.uk" 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "alessandro-galloni-78969670" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
