@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am a postdoctoral research scientist working in the [Milstein Lab](https://milsteinlab.com) at the Center for Advanced Biotechnology & Medicine at Rutgers University. My research focus is broadly in the field of "NeuroAI", i.e. at the intersection of neuroscience and artificial intelligence.
+Hello there! I am an EMBO-funded postdoctoral research scientist in the [Milstein Lab](https://milsteinlab.com) at the Center for Advanced Biotechnology & Medicine, Rutgers University. My research focus is broadly in the field of "NeuroAI", i.e. at the intersection of neuroscience and artificial intelligence.
 
 <!-- with experience in machine learning, bio-data analysis, neuromorphic computing, and neurophysiology -->
 
@@ -18,7 +18,8 @@ Hello there! I am a postdoctoral research scientist working in the [Milstein Lab
 University College London, The Francis Crick Institute
 
 * M.Sci. in Neuroscience, 2015\
-University College London
+(combined B.Sc. and Master's degree)\
+University College London\
 
 
 
