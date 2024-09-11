@@ -35,4 +35,6 @@ abstract: 'It is generally appreciated that storing memories of specific events 
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/fncom.2022.826278
+
+url_code: 'https://github.com/Milstein-Lab/dentate_circuit_model'
 ---

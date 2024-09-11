@@ -41,4 +41,7 @@ abstract: 'Design of hardware based on biological principles of neuronal computa
 links:
 - name: URL
   url: https://www.pnas.org/doi/abs/10.1073/pnas.2318362121
+
+url_code: 'https://github.com/Milstein-Lab/neuromorphic-btsp'
+
 ---
