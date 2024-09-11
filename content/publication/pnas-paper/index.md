@@ -11,12 +11,12 @@ authors:
 # - Christine Grienberger
 - Shriram Ramanathan
 - Aaron D. Milstein
-date: '2024-01-01'
-publishDate: '2024-04-30T23:18:46.017479Z'
+date: '2024-04-17T00:00:00Z'
+# publishDate: '2024-04-30T23:18:46.017479Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
-doi: 10.1073/pnas.2318362121
+# doi: 10.1073/pnas.2318362121
 abstract: 'Design of hardware based on biological principles of neuronal computation
   and plasticity in the brain is a leading approach to realizing energy- and sample-efficient
   AI and learning machines. An important factor in selection of the hardware building

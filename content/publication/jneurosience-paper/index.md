@@ -5,12 +5,12 @@ authors:
 - admin
 - Zhiwen Ye
 - Ede Rancz
-date: '2022-01-01'
-publishDate: '2024-04-30T23:18:46.025360Z'
+date: '2022-04-20T00:00:00Z'
+# publishDate: '2024-04-30T23:18:46.025360Z'
 publication_types:
 - article-journal
 publication: '*Journal of Neuroscience*'
-doi: 10.1523/JNEUROSCI.1620-21.2022
+# doi: 10.1523/JNEUROSCI.1620-21.2022
 abstract: Feedforward and feedback pathways interact in specific dendritic domains
   to enable cognitive functions such as predictive processing and learning. Based
   on axonal projections, hierarchically lower areas are thought to form synapses primarily

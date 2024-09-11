@@ -4,12 +4,12 @@ authors:
 - admin
 - Aeron Laffere
 - Ede Rancz
-date: '2020-05-01'
-publishDate: '2024-04-30T23:18:46.007270Z'
+date: '2020-05-28T00:00:00Z'
+# publishDate: '2020-04-30T23:18:46.007270Z'
 publication_types:
 - article-journal
 publication: '*eLife*'
-doi: 10.7554/eLife.55761
+# doi: 10.7554/eLife.55761
 abstract: Anatomical similarity across the neocortex has led to the common assumption
   that the circuitry is modular and performs stereotyped computations. Layer 5 pyramidal
   neurons (L5PNs) in particular are thought to be central to cortical computation
