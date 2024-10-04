@@ -170,4 +170,8 @@ languages:
 
 ## About Me
 
-I am a postdoctoral research scientist working in the [Milstein Lab](https://milsteinlab.com) at the Center for Advanced Biotechnology & Medicine at Rutgers University. My research covers topics at the intersection of Neuroscience and Artificial Intelligence, with a focus on using tools from machine learning to understand how the brain learns and use neuroscience principles to build better neuromorphic computers.
+I am a postdoctoral scientist working in the [Milstein Lab](https://milsteinlab.com) at the Center for Advanced Biotechnology & Medicine at Rutgers University. My research covers topics at the intersection of Neuroscience and Artificial Intelligence, with a focus on using tools from machine learning to understand how the brain learns and use neuroscience principles to build better neuromorphic computers. 
+
+Broadly I build artificial neural networks with biologically inspired computing elements, such as incorporating separate dendrite-targeting interneuron populations to help networks locally estimate gradients and learn robust representations. I have also used some of the insights from theoretical modelling of dendrite-dependent synaptic plasticity in the brain to inspire new applications of Mott insulator tranisitons in phase change materials (VO2 thin-films). These insight led to the design of analog electronic circits to implement new learning rules on neuromorphic hardware.
+
+I did my PhD work at the [Francis Crick Institute](https://www.crick.ac.uk) and [University College London](https://www.ucl.ac.uk) under supervision of Prof. Ede Rancz, where I uncovered novel properties of dendritic spikes in L5 pyramidal neurons in the visual cortex. 
