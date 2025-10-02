@@ -1,27 +1,30 @@
-name: Deploy to github pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - master
+      - main  # Added in case you're using 'main' as default branch
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4  # Updated to latest version
       
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3  # Updated to v3
         with:
-          hugo-version: '0.101.0'
+          hugo-version: 'latest'  # Or pin to a specific version like '0.121.0'
+          extended: true  # Enable if you need Hugo Extended
 
       - name: Build
-        run: HUGO_ENV=production hugo --gc --minify
+        run: hugo --gc --minify
+        env:
+          HUGO_ENV: production
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4  # Updated to v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-        
